@@ -54,7 +54,7 @@
           "answer": 3
         }
       ],
-      "python": [
+      "quiz_2": [
         {
           "question": "Which of the following is the correct way to define a function in Python?",
           "type": "multiple-choice",
