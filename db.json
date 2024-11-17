@@ -1,6 +1,5 @@
 {
-    "quizzes": {
-      "java": [
+    "quiz_1": [
         {
           "question": "What is the correct way to declare a variable in Java?",
           "type": "multiple-choice",
@@ -111,5 +110,3 @@
         }
       ]
     }
-  }
-  
