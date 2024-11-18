@@ -10,6 +10,7 @@
             "number = 10;"
           ],
           "answer": 0
+          "explanation": "In Java, the correct way to declare a variable is to use a type followed by the variable name and value, such as 'int number = 10;'."
         },
         {
           "question": "Sarah is trying to calculate the size of an array in Java. She creates an array with 5 integers: int[] numbers = {2, 4, 6, 8, 10};. Then she writes the following code to get the array's size: System.out.println(\"Array size: \" + numbers.length); She thinks the array's size will be 6. Does that sound about right?",
@@ -20,6 +21,7 @@
             "No, it is too low"
           ],
           "answer": 1
+          "explanation": "In Java, the array size is the number of elements in the array. The array 'numbers' has 5 elements, so its size is 5, not 6."
         },
         {
           "question": "Which of the following is the correct way to define a class in Java?",
@@ -30,6 +32,7 @@
             "image3_java.jpg"
           ],
           "answer": 0
+          "explanation": "The correct way to define a class in Java is public class MyClass {}. The other images are incorrect class definitions."
         },
         {
           "question": "Which of the following is not a primitive data type in Java?",
@@ -41,6 +44,7 @@
             "char"
           ],
           "answer": 2
+          "explanation": "In Java, 'String' is not a primitive data type. It is an object. The other options (int, boolean, and char) are primitive data types."
         },
         {
           "question": "Which of the following Java statements will correctly print the String x and not the value of the variable x?",
@@ -52,6 +56,7 @@
             "System.out.println(\"x\");"
           ],
           "answer": 3
+          "explanation": "The correct statement is 'System.out.println(\"x\");'. This will print the literal string 'x', not the value of the variable 'x'."
         }
       ],
       "quiz_2": [
@@ -65,6 +70,7 @@
             "function myFunction():"
           ],
           "answer": 0
+          "explanation": "In Python, functions are defined using the 'def' keyword, followed by the function name and parentheses, like 'def myFunction():'."
         },
         {
           "question": "John is learning Python and is trying to calculate the length of a string. He has the following code: my_string = \"Hello, World!\" print(len(my_string)) He thinks the length of the string is 13 characters. Does that sound about right?",
@@ -75,6 +81,7 @@
             "No, it is too low"
           ],
           "answer": 0
+          "explanation": "The string 'Hello, World!' contains 13 characters, including spaces and punctuation. So, John is correct."
         },
         {
           "question": "Which of the following shows the correct syntax for a `for` loop in Python?",
@@ -85,6 +92,8 @@
             "image3_python.jpg"
           ],
           "answer": 0
+          "explanation": "The correct syntax for a `for` loop in Python is for x in range(10):."
+            
         },
         {
           "question": "Which of the following is the correct way to comment a single line in Python?",
@@ -96,6 +105,7 @@
             "' This is a comment"
           ],
           "answer": 0
+          "explanation": "In Python, single-line comments are created by placing a '#' symbol before the comment text. The other options are not valid for Python comments."
         },
         {
           "question": "If x = 10 and y = 5, what is the output of the following Python code: print(x // y)?",
@@ -107,6 +117,7 @@
             "5"
           ],
           "answer": 0
+          "explanation": "The '//' operator in Python is used for floor division, which divides the two numbers and returns the largest integer less than or equal to the result. So, 10 // 5 equals 2."
         }
       ]
     }
