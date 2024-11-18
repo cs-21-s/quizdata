@@ -25,9 +25,9 @@
           "question": "Which of the following is the correct way to define a class in Java?",
           "type": "image-selection",
           "options": [
-            "url_of_image_1.jpg", 
-            "url_of_image_2.jpg", 
-            "url_of_image_3.jpg"
+            "image1_java.jpg", 
+            "image2_java.jpg", 
+            "image3_java.jpg"
           ],
           "answer": 0
         },
