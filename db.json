@@ -9,7 +9,7 @@
             "var number: int = 10",
             "number = 10;"
           ],
-          "answer": 0
+          "answer": 0,
           "explanation": "In Java, the correct way to declare a variable is to use a type followed by the variable name and value, such as 'int number = 10;'."
         },
         {
@@ -20,7 +20,7 @@
             "No, it is too high", 
             "No, it is too low"
           ],
-          "answer": 1
+          "answer": 1,
           "explanation": "In Java, the array size is the number of elements in the array. The array 'numbers' has 5 elements, so its size is 5, not 6."
         },
         {
@@ -31,7 +31,7 @@
             "image2_java.jpg", 
             "image3_java.jpg"
           ],
-          "answer": 0
+          "answer": 0,
           "explanation": "The correct way to define a class in Java is public class MyClass {}. The other images are incorrect class definitions."
         },
         {
@@ -43,7 +43,7 @@
             "String",
             "char"
           ],
-          "answer": 2
+          "answer": 2,
           "explanation": "In Java, 'String' is not a primitive data type. It is an object. The other options (int, boolean, and char) are primitive data types."
         },
         {
@@ -55,7 +55,7 @@
             "print(x);",
             "System.out.println(\"x\");"
           ],
-          "answer": 3
+          "answer": 3,
           "explanation": "The correct statement is 'System.out.println(\"x\");'. This will print the literal string 'x', not the value of the variable 'x'."
         }
       ],
@@ -69,7 +69,7 @@
             "def myFunction[]:",
             "function myFunction():"
           ],
-          "answer": 0
+          "answer": 0,
           "explanation": "In Python, functions are defined using the 'def' keyword, followed by the function name and parentheses, like 'def myFunction():'."
         },
         {
@@ -80,7 +80,7 @@
             "No, it is too high", 
             "No, it is too low"
           ],
-          "answer": 0
+          "answer": 0,
           "explanation": "The string 'Hello, World!' contains 13 characters, including spaces and punctuation. So, John is correct."
         },
         {
@@ -91,7 +91,7 @@
             "image2_python.jpg", 
             "image3_python.jpg"
           ],
-          "answer": 0
+          "answer": 0,
           "explanation": "The correct syntax for a `for` loop in Python is for x in range(10):."
             
         },
@@ -104,7 +104,7 @@
             "/* This is a comment */",
             "' This is a comment"
           ],
-          "answer": 0
+          "answer": 0,
           "explanation": "In Python, single-line comments are created by placing a '#' symbol before the comment text. The other options are not valid for Python comments."
         },
         {
@@ -116,7 +116,7 @@
             "10",
             "5"
           ],
-          "answer": 0
+          "answer": 0,
           "explanation": "The '//' operator in Python is used for floor division, which divides the two numbers and returns the largest integer less than or equal to the result. So, 10 // 5 equals 2."
         }
       ]
