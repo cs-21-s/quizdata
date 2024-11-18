@@ -80,9 +80,9 @@
           "question": "Which of the following shows the correct syntax for a `for` loop in Python?",
           "type": "image-selection",
           "options": [
-            "url_of_image_1.jpg", 
-            "url_of_image_2.jpg", 
-            "url_of_image_3.jpg"
+            "image1_python.jpg", 
+            "image2_python.jpg", 
+            "image3_python.jpg"
           ],
           "answer": 0
         },
